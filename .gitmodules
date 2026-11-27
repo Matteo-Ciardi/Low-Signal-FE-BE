@@ -1,0 +1,6 @@
+[submodule "low-signal"]
+	path = low-signal
+	url = https://github.com/Matteo-Ciardi/low-signal
+[submodule "low_signal"]
+	path = low_signal
+	url = https://github.com/Alessandro-Messineo/low_signal
